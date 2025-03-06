@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZachariasHultman
-- 👀 I’m interested in Smart Home
-- 🌱 I’m currently learning Mechatronics
+- 👀 I’m interested in Smart Home and Economics
+- 🌱 I’m currently learning c++
 
 
 <!---
